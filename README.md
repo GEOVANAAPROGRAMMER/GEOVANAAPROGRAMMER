@@ -40,7 +40,7 @@
 
 <div>
   <a href="https://github.com/GEOVANAAPROGRAMMER/Analise-de-Perfil-de-Clientes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GEOVANAAPROGRAMMER&repo=Analise-de-Perfil-de-Clientes&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GEOVANAAPROGRAMMER&repo=Analise-de-Perfil-de-Clientes&theme=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" />
   </a>
   <a href="https://github.com/GEOVANAAPROGRAMMER/Analise-de-Perfil-de-Cliente---Parte-2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GEOVANAAPROGRAMMER&repo=Analise-de-Perfil-de-Cliente---Parte-2&theme=tokyonight" />
