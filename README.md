@@ -31,6 +31,6 @@
 
 <div>
   <a href="https:https://github.com/GEOVANAAPROGRAMMER">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GEOVANAAPROGRAMMER&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEOVANAAPROGRAMMER&&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GEOVANAAPROGRAMMER&show_icons=true&theme=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"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEOVANAAPROGRAMMER&&layout=compact&langs_count=16&theme=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"/>
 </div>
