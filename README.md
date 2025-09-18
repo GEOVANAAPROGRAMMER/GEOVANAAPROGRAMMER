@@ -31,37 +31,10 @@
 
 <div>
   <a href="https:https://github.com/GEOVANAAPROGRAMMER">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GEOVANAAPROGRAMMER&show_icons=true&theme=tokyonight&token=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"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEOVANAAPROGRAMMER&layout=compact&langs_count=16&theme=tokyonight&token=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"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GEOVANAAPROGRAMMER&show_icons=true&theme=tokyonight&token=process.env.PAT_1/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEOVANAAPROGRAMMER&layout=compact&langs_count=16&theme=tokyonight&token=process.env.PAT_1/>
 
 </div>
 
-## Projetos Fixados 🚀
 
-<div>
-  <a href="https://github.com/GEOVANAAPROGRAMMER/Analise-de-Perfil-de-Clientes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GEOVANAAPROGRAMMER&repo=Analise-de-Perfil-de-Clientes&theme=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" />
-  </a>
-  <a href="https://github.com/GEOVANAAPROGRAMMER/Analise-de-Perfil-de-Cliente---Parte-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GEOVANAAPROGRAMMER&repo=Analise-de-Perfil-de-Cliente---Parte-2&theme=tokyonight" />
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/GEOVANAAPROGRAMMER/Analise-de-Perfil-de-Cliente---Parte-4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GEOVANAAPROGRAMMER&repo=Analise-de-Perfil-de-Cliente---Parte-4&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/GEOVANAAPROGRAMMER/Sistema_de_Gerenciamento_de_Brinquedos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GEOVANAAPROGRAMMER&repo=Sistema_de_Gerenciamento_de_Brinquedos&theme=tokyonight" />
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/GEOVANAAPROGRAMMER/Curso-Java-Fundamentos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GEOVANAAPROGRAMMER&repo=Curso-Java-Fundamentos&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/GEOVANAAPROGRAMMER/Dockerfile_Python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GEOVANAAPROGRAMMER&repo=Dockerfile_Python&theme=tokyonight" />
-  </a>
-</div>
 
