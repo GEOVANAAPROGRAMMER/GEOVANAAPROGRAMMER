@@ -1,40 +1,56 @@
-## Olá Galera! 👋
+# Olá Galera! 👋
 
-## Me chamo Geovana Ribeiro e tenho 21 anos.
-## Cursei Análise e Desenvolvimento de Sistemas na FIAP.
-## Aqui você verá meus projetos e todo o meu progresso.
+Eu chamo **Geovana Ribeiro** e tenho **21 anos**.  
+Cursei **Análise e Desenvolvimento de Sistemas na FIAP**.  
 
+🔗 Aqui você verá meus projetos e todo o meu progresso.  
 
-- 🌱 Estudando Java / Python
+- 📚 Estudando **Java / Python**
 
-##
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  <img align="center" alt="Flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
-  <img align="center" alt="VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-  <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="SQLDeveloper" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
+## 🚀 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+[![Linkedin Badge](https://img.shields.io/badge/-Geovana%20Ribeiro-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Geovana Ribeiro GitHub Stats](https://github-readme-stats.vercel.app/api?username=GEOVANAAPROGRAMMER&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEOVANAAPROGRAMMER&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GEOVANAAPROGRAMMER&theme=tokyonight&hide_border=false)
+
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://www.linkedin.com/in/geovana-ribeiro-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
-</div>
+## 📌 Projetos Fixados
 
-##
+- [Analise-de-Perfil-de-Clientes---Parte-2](https://github.com/GEOVANAAPROGRAMMER/Analise-de-Perfil-de-Clientes---Parte-2)
+- [Analise-de-Perfil-de-Clientes---Parte-4](https://github.com/GEOVANAAPROGRAMMER/Analise-de-Perfil-de-Clientes---Parte-4)
+- [Sistema_de_Gerenciamento_de_Brinquedos](https://github.com/GEOVANAAPROGRAMMER/Sistema_de_Gerenciamento_de_Brinquedos)
+- [Curso-Java-Fundamentos](https://github.com/GEOVANAAPROGRAMMER/Curso-Java-Fundamentos)
+- [Dockerfile_Python](https://github.com/GEOVANAAPROGRAMMER/Dockerfile_Python)
 
-<div>
-  <a href="https:https://github.com/GEOVANAAPROGRAMMER">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GEOVANAAPROGRAMMER&show_icons=true&theme=tokyonight&token=process.env.PAT_1/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEOVANAAPROGRAMMER&layout=compact&langs_count=16&theme=tokyonight&token=process.env.PAT_1/>
+---
 
-</div>
-
-
-
+✨ _“Sempre aprendendo, sempre evoluindo!”_
